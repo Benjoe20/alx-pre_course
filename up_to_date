@@ -1,1 +1,5 @@
 git fetch origin          # fetch all changes
+
+git pull
+
+git commit to show why the merge
